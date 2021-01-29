@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5EC0-4383
+
+ Directory of C:\Users\maxum\Documents\Git\penis
+
+01/26/2021  06:34 PM    <DIR>          .
+01/26/2021  06:34 PM    <DIR>          ..
+01/26/2021  06:34 PM                 0 dir.txt
+01/26/2021  06:28 PM             2,335 Example.png
+01/26/2021  06:29 PM                 0 example.txt
+01/26/2021  06:25 PM    <DIR>          penis.txt
+               3 File(s)          2,335 bytes
+               3 Dir(s)  24,594,100,224 bytes free
